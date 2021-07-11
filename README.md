@@ -23,7 +23,7 @@ A Telegram bot 🤖 to Generate Pyrogram String Session.
 --------
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Titan-OP/String-Session-Generator/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Titan-OP/PYRO-STRING/tree/master)
 
 --------
 
